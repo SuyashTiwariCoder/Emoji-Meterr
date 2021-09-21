@@ -8,7 +8,11 @@ var emojiDictionary = {
   "🤗": "hugging Face",
   "😷": "Corona Mask",
   "🥴": "Woozy Face",
-  "💩": "Pile of Poo"
+  "💩": "Pile of Poo",
+  "😜": "Winking Face with Tongue",
+  "🤫": "Shushing Face",
+  "😬": "Grimacing Face",
+  "😑": "Expressionless Face"
 };
 var emojis = Object.keys(emojiDictionary);
 export default function App() {
